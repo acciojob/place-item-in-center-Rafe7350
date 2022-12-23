@@ -1,2 +1,6 @@
-
+.item{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
 /* Your CSS Code here. */
